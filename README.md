@@ -1,7 +1,7 @@
 # Moddy
 Nintendo switch botw mod installer
 you can download it here: 
-liveexploit.com/NX/moddy.zip
+https://liveexploit.com/NX/moddy.zip
 # support
 this only works with sxos right now. i will add atmosphere support later.
 
