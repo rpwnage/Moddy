@@ -1,7 +1,9 @@
 # Moddy
 Nintendo switch botw mod installer
 you can download it here: 
-https://liveexploit.com/NX/moddy.zip
+https://drive.google.com/open?id=1uPnVh9basNN0kWVQYoB_RvUDHlaWIgdB
+
+
 # support
 this only works with sxos right now. i will add atmosphere support later.
 
@@ -14,3 +16,8 @@ put the moddy folder into the switch folder on your sdcard so it should be struc
 /switch/moddy/waluigi_skinpack/...
 
 etc
+
+# credits
+
+iSn0w
+@iSn0we on twitter
