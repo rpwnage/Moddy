@@ -1,5 +1,6 @@
 # Moddy
 Nintendo switch botw mod installer
+you can download it here: 
 
 # support
 this only works with sxos right now. i will add atmosphere support later.
@@ -9,3 +10,7 @@ this only works with sxos right now. i will add atmosphere support later.
 put the moddy folder into the switch folder on your sdcard so it should be structured like this
 
 /switch/moddy/moddy.nro
+/switch/moddy/zeldaskinpack/...
+/switch/moddy/waluigi_skinpack/...
+
+etc
