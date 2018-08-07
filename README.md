@@ -19,11 +19,15 @@ This only works with SX OS right now. I will add Atmosphere support later.
 
 Put the Moddy folder into the switch folder on your sdcard so it should be structured like this
 
+```
 /switch/moddy/moddy.nro
+
 /switch/moddy/zeldaskinpack/...
+
 /switch/moddy/waluigi_skinpack/...
 
 etc
+```
 
 # Credits
 
