@@ -1,4 +1,7 @@
 # Moddy
+![alt text](https://raw.githubusercontent.com/iSn0we/Moddy/master/icon.jpg)
+
+
 Nintendo Switch BOTW mod installer
 
 You can download it here: 
