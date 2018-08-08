@@ -24,14 +24,14 @@ extract the prebuilt sdfiles release like this onto your microsdcard.
 ```
 .
 ├── sxos
-|   ├── titles
-|   └───── 01007EF00011E000
+│   ├── titles
+│   └───── 01007EF00011E000
 ├── switch
-|   ├── moddy
-|   └───── moddy.nro
-|   └───── zeldaskinpack
-|   └───── waluigi_skinpack
-|   └───── old_mods_deleted
+│   ├── moddy
+│   └───── moddy.nro
+│   └───── zeldaskinpack
+│   └───── waluigi_skinpack
+│   └───── old_mods_deleted
 
 ```
 
