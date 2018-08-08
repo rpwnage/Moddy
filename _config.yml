@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
-title: "Moddy Installer"
-description: "Nintendo Switch BOTW Modding"
+title: Moddy Installer
+description: Nintendo Switch BOTW Modding
+show_downloads: true
