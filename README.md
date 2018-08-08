@@ -4,8 +4,7 @@
 
 Nintendo Switch BOTW mod installer
 
-You can download it here: 
-https://drive.google.com/open?id=1uPnVh9basNN0kWVQYoB_RvUDHlaWIgdB
+If you want a ready to go version, you just have to unzip one of the [Prebuild Releases](https://github.com/iSn0we/Moddy/releases) to your MicroSdCard
 
 # About the source
 
