@@ -23,11 +23,8 @@ Put the Moddy folder into the switch folder on your sdcard so it should be struc
 
 ```
 /switch/moddy/moddy.nro
-
 /switch/moddy/zeldaskinpack/...
-
 /switch/moddy/waluigi_skinpack/...
-
 etc
 ```
 
