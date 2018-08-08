@@ -20,12 +20,19 @@ This only works with SX OS right now. I will add Atmosphere support later.
 ## How to install Moddy
 
 Put the Moddy folder into the switch folder on your sdcard so it should be structured like this
-
+extract the prebuilt sdfiles release like this onto your microsdcard.
 ```
-/switch/moddy/moddy.nro
-/switch/moddy/zeldaskinpack/...
-/switch/moddy/waluigi_skinpack/...
-etc
+.
+├── sxos
+|   ├── titles
+|   └───── 01007EF00011E000
+├── switch
+|   ├── moddy
+|   └───── moddy.nro
+|   └───── zeldaskinpack
+|   └───── waluigi_skinpack
+|   └───── old_mods_deleted
+
 ```
 
 ## Credits
