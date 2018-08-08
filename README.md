@@ -6,18 +6,18 @@ Nintendo Switch BOTW mod installer
 
 If you want a ready to go version, you just have to unzip one of the [Prebuild Releases](https://github.com/iSn0we/Moddy/releases) to your MicroSdCard
 
-# About the source
+## About the source
 
 I didn't include the modpacks in the given source code due to their size. Just download the release version from the link above, and you will have the modpacks needed.
 
-# Warning
+## Warning
 
 I've tried to make a system which prevents you from installing multiple mods over each other, and it should work fine, but you should uninstall all mods everytime before you install a new one.
 
-# Support
+## Support
 This only works with SX OS right now. I will add Atmosphere support later.
 
-# How to install Moddy
+## How to install Moddy
 
 Put the Moddy folder into the switch folder on your sdcard so it should be structured like this
 
@@ -31,7 +31,7 @@ Put the Moddy folder into the switch folder on your sdcard so it should be struc
 etc
 ```
 
-# Credits
+## Credits
 
 iSn0w
 
