@@ -1,5 +1,5 @@
 # Moddy
-![alt text](https://raw.githubusercontent.com/iSn0we/Moddy/master/icon.jpg)
+![alt text](https://raw.githubusercontent.com/iSn0we/Moddy/master/wallpu%CC%88aper.png)
 
 
 Nintendo Switch BOTW mod installer
