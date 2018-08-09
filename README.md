@@ -20,6 +20,13 @@ I've tried to make a system which prevents you from installing multiple mods ove
 
 ## Support
 This only works with SX OS right now. I will add Atmosphere support later.
+### possible errors
+Stuck in greystartscreen:
+```
+│   ├── Please remove all mods and restrart the app. you've probably installed a modpack which isnt on the modlist provided by
+│   └─── The BOTWModdyInstaller team, which causes it tocrash, by not being formatted the right way, and not having a  
+│   └─── Modinfo.txt.
+```
 
 ## How to install Moddy
 
