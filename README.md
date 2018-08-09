@@ -6,6 +6,10 @@ Nintendo Switch BOTW mod installer
 
 If you want a ready to go version, you just have to unzip one of the [Prebuild Releases](https://github.com/iSn0we/Moddy/releases) to your MicroSdCard
 
+## Screenshots
+
+![Screenshots:](https://raw.githubusercontent.com/iSn0we/Moddy/master/DkJl8bRUcAAIVlD.jpg)
+
 ## About the source
 
 I didn't include the modpacks in the given source code due to their size. Just download the release version from the link above, and you will have the modpacks needed.
@@ -36,6 +40,8 @@ extract the prebuilt sdfiles release like this onto your microsdcard.
 ```
 
 ## Credits
+
+
 
 iSn0w
 
