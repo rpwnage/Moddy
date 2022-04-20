@@ -48,8 +48,4 @@ extract the prebuilt sdfiles release like this onto your microsdcard.
 
 ## Credits
 
-
-
-iSn0w
-
-[@iSn0we on Twitter](https://twitter.com/iSN0we)
+rpwnage y'kno
